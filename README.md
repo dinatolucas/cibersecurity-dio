@@ -35,5 +35,6 @@ Este é um guia para configurar um ataque de phishing destinado a capturar senha
     ```
 
 9. **Resultados**: Após configurar o phishing, aguarde que as vítimas acessem o site clonado e forneçam suas credenciais. As credenciais capturadas serão armazenadas para análise posterior.
+![Captura de tela de 2024-04-03 10-49-17](https://github.com/dinatolucas/cibersecurity-dio/assets/83898401/b0adc9d6-4e8e-4746-9ca9-5a24ac8f3107)
 
 **Nota**: O uso de técnicas de phishing é ilegal e antiético se realizado sem consentimento explícito. Este guia é fornecido apenas para fins educacionais e de conscientização sobre segurança cibernética. Sempre obtenha permissão antes de realizar testes de segurança em sistemas e redes que não são de sua propriedade.
