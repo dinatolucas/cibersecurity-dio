@@ -1,6 +1,6 @@
 # Phishing para Captura de Senhas
 
-Este é um guia para configurar um ataque de phishing destinado a capturar senhas do Facebook usando ferramentas disponíveis no Kali Linux.
+Este é um guia para configurar um ataque de phishing destinado a capturar senhas usando ferramentas disponíveis no Kali Linux.
 
 ## Ferramentas
 
